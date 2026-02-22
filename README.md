@@ -75,5 +75,5 @@ MLR.ipynb
 
 If you Liked it the Feel free to give a star.
 
-### Author
+### Author:
 ***Pravir Nihar Maity***
